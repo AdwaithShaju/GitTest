@@ -1,5 +1,5 @@
 print("Hello, Git")
 print("1")
 print("5")
-print("6")
+print("7")
 
